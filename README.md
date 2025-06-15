@@ -34,3 +34,6 @@ This is an exercise during the selection process of a placement oppoturnity. It 
 - **JSON data file**
 
 ---
+
+![Demo](/demo.gif)
+
