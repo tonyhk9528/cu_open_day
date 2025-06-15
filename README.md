@@ -13,6 +13,7 @@ This is designed to help prospective students easily explore and browse the sche
 ## 💡 Why I Built This
 
 This is an exercise during the selection process of a placement oppoturnity. It shows how I solve problem and displaying JSON data logically. The strength of coding was said to be strong.
+
 ---
 
 ## 🚀 Features
