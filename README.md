@@ -1,6 +1,6 @@
 # 🎓 Open Day Programme Viewer
 
-A lightweight web exercise that displays and filters university open day programmes by topic. Built using **JavaScript**, structured **JSON data**, and styled with **Bootstrap**.
+A lightweight web app that displays and filters university open day programmes by topic. Built using **JavaScript**, structured **JSON data**, and styled with **Bootstrap**.
 
 ---
 
